@@ -1,2 +1,2 @@
-# angryBirdsStage2
-Angry Birds stage 2 with Class Inheritance and Images
+# angryBirdsEtapa2
+Angry Birds etapa 2 con Herencia de Clase e Imágenes
